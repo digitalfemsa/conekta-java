@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>io.conekta</groupId>
-  <artifactId>conekta-java</artifactId>
+  <groupId>io.digitalfemsa</groupId>
+  <artifactId>digitalfemsa-java</artifactId>
   <version>2.2.3</version>
   <packaging>jar</packaging>
-  <name>conekta-java</name>
-  <description>This is a java library that allows interaction with https://api.conekta.io API.</description>
-  <url>https://www.conekta.io</url>
+  <name>digitalfemsa-java</name>
+  <description>This is a java library that allows interaction with https://api.digitalfemsa.io API.</description>
+  <url>https://www.digitalfemsa.io</url>
   <licenses>
     <license>
       <name>MIT License</name>
@@ -16,16 +16,16 @@
   </licenses>
   <developers>
     <developer>
-      <name>Conekta API Core Team</name>
-      <email>core@conekta.io</email>
-      <organization>Conekta, Inc.</organization>
-      <organizationUrl>https://www.conekta.io</organizationUrl>
+      <name>digitalfemsa API Core Team</name>
+      <email>core@digitalfemsa.io</email>
+      <organization>digitalfemsa, Inc.</organization>
+      <organizationUrl>https://www.digitalfemsa.io</organizationUrl>
     </developer>
   </developers>
   <scm>
-    <connection>scm:git:git@github.com:conekta/conekta-java.git</connection>
-    <developerConnection>scm:git:git@github.com:conekta/conekta-java.git</developerConnection>
-    <url>https://github.com/conekta/conekta-java/tree/master</url>
+    <connection>scm:git:git@github.com:digitalfemsa/digitalfemsa-java.git</connection>
+    <developerConnection>scm:git:git@github.com:digitalfemsa/digitalfemsa-java.git</developerConnection>
+    <url>https://github.com/digitalfemsa/digitalfemsa-java/tree/master</url>
     <tag>HEAD</tag>
   </scm>
   <build>

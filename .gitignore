@@ -25,4 +25,4 @@ nbdist/
 target/
 conf/settings.xml
 .idea
-conekta-java.iml
+digitalfemsa-java.iml
